@@ -1,2 +1,2 @@
-# Suppiies
+# Supplies
 HTML and CSS Tools
