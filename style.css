@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(65, 141, 65);
+}
+.row{
+    display: inline-block;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.card{
+    margin-top: 20px;
+    margin-left: 10px;
+    display: inline-block;
+    max-width: 200px;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+.pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+    margin-bottom: 0px;
+}
+.text{
+    margin-left: 8px;
+}
+.name{
+    font-weight: bold;
+    margin-top: 6px;
+}
+.mutual{
+    margin-top: 5px;
+    font-size: 12px;
+    color: rgb(100, 100, 100);
+    margin-bottom: 10px;
+}
+.add{
+    color: white;
+    background-color: rgb(24, 119, 242);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 0px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.above:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+/* .imgs{
+    display: inline-block;
+    align-items: center;
+    padding: 15px;
+}
+.text{
+    display: inline-block;
+}
+p{  margin-bottom: 0;
+    margin-top:0;
+    max-width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.buttons{
+    display: inline-block;
+    margin-right: 0;
+}
+.follow{
+    color: white;
+    background-color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 0px;
+    margin-top: 0;
+}
+.name{
+    font-weight: bold;
+}
+.type, .rate{
+
+} */
